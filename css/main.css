@@ -84,7 +84,7 @@ form button {
 /*My css code*/
 
 .current a:link {
-  background-color: #ffffff;
+  background-color: whitesmoke;
 }
 
 footer a {
@@ -92,7 +92,7 @@ footer a {
   text-align: right;
   color: #20328D;
 }
-
+/* content main */
 .main-content p a {
   color: #20328D;
 }
