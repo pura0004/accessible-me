@@ -90,14 +90,14 @@ form button {
 footer a {
   display: block; 
   text-align: right;
-  color: #20328D;
+  color: black;
 }
 /* content main */
 .main-content p a {
-  color: #20328D;
+  color: purple;
 }
 .owner a {
-  color: #20328D;
+  color: purple;
 }
 
 /* skipp link css*/
