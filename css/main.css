@@ -28,6 +28,7 @@ h6 {
   padding: 0 1rem;
 }
 
+/* img to 100%*/
 img {
   width: 100%;
 }
@@ -36,8 +37,9 @@ img {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
-  margin: 0;
   padding: 0;
+  margin: 0;
+  
 }
 
 .main-nav ul li {
