@@ -29,17 +29,6 @@ img{
   padding: 0 1rem;
 }
 
-img {
-  width: 100%;
-}
-
-.main-nav ul {
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0;
-  padding: 0;
-}
 
 .main-nav ul li {
   flex: 1;
@@ -69,8 +58,9 @@ form textarea {
 }
 
 form button {
-  background: none;
-  border: 2px solid black;
+  background: blue;
+  border: 2px solid blue;
+  color: white;
   padding: 1rem;
   text-transform: uppercase;
 }
@@ -78,3 +68,57 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+
+/*My css code*/
+
+.current a:link {
+  background-color: #ffffff;
+}
+
+footer a {
+  color: #20328D;
+  display: block; 
+  text-align: right;
+}
+
+.main-content p a {
+  color: #20328D;
+}
+.owner a {
+  color: #20328D;
+}
+
+/* skip link top*/
+
+.skip-links{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.skip-links a{
+  position: absolute;
+  top: -3em;
+  background-color: black;
+  color:white;
+  padding: .5em 1em;
+  font-weight: bold;
+}
+
+.skip-links a:focus{
+  top: 0;
+}
+
+    © 2022 GitHub, Inc.
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
