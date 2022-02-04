@@ -95,9 +95,11 @@ footer a {
 /* content main */
 .main-content p a {
   color: purple;
+  font-weight: bold;
 }
 .owner a {
   color: purple;
+  font-weight: bold;
 }
 
 /* skipp link css*/
