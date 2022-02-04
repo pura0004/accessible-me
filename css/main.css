@@ -3,11 +3,13 @@ body {
   background-color: #CFCFCF;
   margin: 0;
   padding: 0;
-  color: black; /* this colour text is better for readers*/
-  font-weight: normal;
-  font-size: 1.2rem;
+  font-weight: normal; 
   line-height: 1.5;
+  font-size: 1.2rem;
+  color: black;
+  
 }
+/* background color addeed to page*/
 
 h1,
 h2,
