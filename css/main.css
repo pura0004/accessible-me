@@ -68,10 +68,10 @@ form textarea {
 }
 
 form button {
-  background: blue;
-  border: 2px solid blue;
-  color: white;
-  padding: 1rem;
+  background: grey;
+  color: black;
+  border: 2px solid black;
+    padding: 1rem;
   text-transform: uppercase;
 }
 
@@ -109,7 +109,7 @@ footer a {
   position: absolute;
   top: -3em;
   background-color: black;
-  color:white;
+  color: brown;
   padding: .5em 1em;
   font-weight: bold;
 }
@@ -117,18 +117,3 @@ footer a {
 .skip-links a:focus{
   top: 0;
 }
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
