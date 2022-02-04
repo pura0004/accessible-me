@@ -1,12 +1,12 @@
 body {
-  font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #CFCFCF;
   margin: 0;
   padding: 0;
-  font-weight: medium;
-  line-height: 1.8;
-  color: darkgray;
-  font-size: 1.5rem;
+  color: black; /* this colour text is better for readers*/
+  font-weight: normal;
+  font-size: 1.2rem;
+  line-height: 1.5;
 }
 
 h1,
@@ -16,11 +16,7 @@ h4,
 h5,
 h6 {
   font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
-  font-size: 2rem;
-}
-
-img{
-  width: 100%;
+  font-size: 3rem;
 }
 
 .container {
@@ -29,6 +25,17 @@ img{
   padding: 0 1rem;
 }
 
+img {
+  width: 100%;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
 
 .main-nav ul li {
   flex: 1;
@@ -107,3 +114,18 @@ footer a {
 .skip-links a:focus{
   top: 0;
 }
+
+    © 2022 GitHub, Inc.
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
