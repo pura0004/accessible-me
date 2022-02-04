@@ -73,7 +73,7 @@ form button {
   background: grey;
   color: black;
   border: 2px solid black;
-    padding: 1rem;
+  padding: 2rem;
   text-transform: uppercase;
 }
 
@@ -88,9 +88,9 @@ form button {
 }
 
 footer a {
-  color: #20328D;
   display: block; 
   text-align: right;
+  color: #20328D;
 }
 
 .main-content p a {
@@ -100,7 +100,7 @@ footer a {
   color: #20328D;
 }
 
-/* skip link top*/
+/* skipp link css*/
 
 .skip-links{
   list-style: none;
