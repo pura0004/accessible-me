@@ -9,9 +9,9 @@ body {
   color: black;
   
 }
-
 /* background color addeed to page*/
 
+/* h1 to h6 font change*/
 h1,
 h2,
 h3,
@@ -19,7 +19,7 @@ h4,
 h5,
 h6 {
   font-family: 'rockwell', 'Roboto', Helvetica, sans-serif;
-  font-size: 3rem;
+  font-size: 4rem;
 }
 
 .container {
